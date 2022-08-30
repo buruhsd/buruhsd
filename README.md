@@ -8,7 +8,8 @@
 - 📫 How to reach me: aljawad.jpr@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buruhsd&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buruhsd)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=buruhsd&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buruhsd&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
