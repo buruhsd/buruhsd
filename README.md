@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on PT Kinerja Prima Nusantara
+- 🔭 I’m currently working on PT. Sribu Digital Kreatif (sribu.com)
 - 🌱 I’m currently learning NestJS
 - 👀 I’m interested in Backend Development and DevOPS
 - 📫 How to reach me: aljawad.jpr@gmail.com
